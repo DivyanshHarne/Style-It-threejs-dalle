@@ -5,7 +5,7 @@ import {download} from "../assets"
 import {downloadCanvasToImage, reader} from "../config/helpers"
 import {EditorTabs, FilterTabs, DecalTypes} from "../config/constants"
 import {fadeAnimation, slideAnimation} from "../config/motion"
-import ColorPicker from '../components/colorPicker'
+import ColorPicker from '../components/ColorPicker'
 import FilePicker from '../components/FilePicker'
 import AIPicker  from '../components/AIPicker'
 import { AnimatePresence, motion } from 'framer-motion'
